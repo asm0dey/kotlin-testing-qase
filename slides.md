@@ -19,12 +19,11 @@ drawings:
 css: unocss
 colorSchema: 'dark'
 background: black
-download: "https://asm0dey.github.io/kotlin-goodies-ntd/index.pdf"
 ---
 
 # Kotlin Goodies for Testing
 
-## Pasha Finkelshteyn, <logos-jetbrains />
+## Pasha Finkelshteyn
 
 ---
 layout: two-cols
@@ -34,13 +33,13 @@ layout: two-cols
 
 - <logos-kotlin-icon /><logos-java /><logos-scala /><logos-clojure/> developer
 - Average <logos-python /> enjoyer
-- Developer <emojione-avocado /> at <logos-jetbrains />
 - Data engineer
-- Speaker <twemoji-microphone /> and streamer <logos-twitch /> ([https://twitch.tv/jetbrains](https://jb.gg/twitch) or [<logos-twitch />.<emojione-television />/<logos-jetbrains />](https://jb.gg/twitch))
+- Careel-long involved into quality processes
 
 ::right::
 
 ![](/avatar.jpg)
+
 
 ---
 layout: image
@@ -516,10 +515,10 @@ background: /monk.png
 <p><ph-twitter-logo-fill/> asm0di0</p>
 <p><mdi-mastodon/> @asm0dey@fosstodon.org</p>
 <p><ph-envelope-simple-open-fill/> me@asm0dey.site</p>
-<p><ph-twitch-logo-fill/> https://jb.gg/twitch</p>
 <p><ph-github-logo-fill/><ph-instagram-logo-fill/><ph-linkedin-logo-fill/><ph-telegram-logo-fill/> asm0dey</p>
 <p><ph-globe-duotone/><a href="https://linktr.ee/asm0dey">https://linktr.ee/asm0dey</a></p>
 </div>
+
 
 ---
 layout: center
@@ -527,7 +526,7 @@ layout: center
 
 <Transform :scale="0.6" origin="center">
 
-![](/presqr.png)
+![](/qr-code.png)
 
 </Transform>
 

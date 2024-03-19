@@ -37,7 +37,7 @@ jobs:
       - name: Install dependencies
         run: bun install
       - name: Build presentation web
-        run: bun run build --base=/kotlin-testing-oredev/
+        run: bun run build --base=/kotlin-testing-qase/
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
